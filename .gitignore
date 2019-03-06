@@ -1,0 +1,10 @@
+/.vscode
+/browserify
+/fileData
+node_modules
+/images
+/logs
+.env
+nodemon.json
+vidjot.code-workspace
+jsconfig.json
